@@ -1,24 +1,23 @@
-# Door selector 프로젝트
+## Door selector 프로젝트
 
 다양한 색상과 모양의 문(Door) 선택 화면 예제!
 
 이 프로젝트는 사용자에게 문을 선택할 수 있는 인터랙티브한 웹 페이지를 제공합니다. 각 문은 호버하는 경우 색상이 변경되고 확대되는 효과를 가지고 있어 사용자에게 시각적인 흥미를 유발합니다.
 
-[DEMO](https://dreamy-mcnulty-986c58.netlify.app/)
+[door](https://dreamy-mcnulty-986c58.netlify.app/)
 
-## Image url
+## 주요 기능
 
-#### Doors
+* 문 선택: 사용자는 여러 문 중 하나를 선택할 수 있습니다.
+* 시각적 효과: 문을 호버하면 색상이 변경되고 확대되는 시각적 효과가 제공됩니다.
+* 다양한 디자인: 각 문은 서로 다른 이미지를 가지고 있어 다양한 디자인을 즐길 수 있습니다.
 
-이미지 이름에 숫자를 확인하세요!
-`img1.png`~`img32.png`
+## 사용 기술
 
-```url
-https://raw.githubusercontent.com/ParkYoungWoong/door-selector/main/images/img1.jpg
-```
+* HTML: 웹 페이지의 구조를 정의하기 위해 사용되었습니다.
+* CSS: 문의 스타일링 및 시각적 효과를 정의하기 위해 사용되었습니다.
 
-#### Background
-
-```url
-https://raw.githubusercontent.com/ParkYoungWoong/door-selector/main/images/bg.jpg
-```
+## 사용법
+1. 이 저장소를 클론합니다.
+2. 웹 브라우저에서 index.html 파일을 엽니다.
+3. 다양한 문 중 하나를 선택하고 호버 효과를 경험해보세요!
